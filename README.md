@@ -12,7 +12,7 @@ App uses:
 
 There is an example:
 
-![Image alt](https://github.com/emelkhovsky/world_map_react/blob/master/examples/1.png)
+![Image alt](https://github.com/emelkhovsky/world_map_react/blob/master/example/1.png)
 
 
 
