@@ -1,3 +1,21 @@
+### World Map
+
+This web-application(namely ***SPA***) was created for viewing of the country population. Web-site uses ***react***. 
+You have an opportunity to hover over countries and see the country name, population.
+Also, countries are colored in different shades of red. It shows how large the population in current country. 
+That is population's proection on color.
+
+App uses:
+* ***react***
+* ***javascript***
+* ***css/html***
+
+There is an example:
+
+![Image alt](https://github.com/emelkhovsky/world_map_react/blob/master/examples/1.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
