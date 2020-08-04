@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {countries, dispatch} from "./state";
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App countries={countries} dispatch = {dispatch}/>
   </React.StrictMode>,
   document.getElementById('root')
 );
